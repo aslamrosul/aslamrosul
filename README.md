@@ -15,10 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aslamrosul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a&color=00ff00" /></a>
-  <a href="https://aslamra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a&color=00ff00" /></a>
-  <a href="mailto:emailmu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=00ff00" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PGP-0xDEADBEEF-00ff00?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://linkedin.com/in/aslamrosul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a&color=0077B5" /></a>
+  <a href="https://aslamra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a&color=6e7681" /></a>
+  <a href="mailto:emailmu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=D14836" /></a>
   <img src="https://komarev.com/ghpvc/?username=aslamrosul&style=for-the-badge&color=00ff00&label=VISITOR+COUNT" />
 </p>
 
