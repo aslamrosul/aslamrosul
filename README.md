@@ -87,38 +87,6 @@ aslamrosul - Security-Oriented Backend Engineer
 
 
 
----
-
-## 📈 GITHUB STATS: HACKER EDITION
-
-<p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aslamrosul&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=15" height="170" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamrosul&theme=chartreuse-dark&hide_border=true&border_radius=15" height="170" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamrosul&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=15&langs_count=8" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aslamrosul&theme=matrix&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aslamrosul&theme=react-dark&bg_color=0a0a0a&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" width="95%" />
-</p>
-
----
-
-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
