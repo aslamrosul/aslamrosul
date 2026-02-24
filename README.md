@@ -46,47 +46,6 @@ aslamrosul - Security-Oriented Backend Engineer
 -rwxr-xr-x 1 root root  512 Feb 24 10:39 pwn_the_box.sh
 ```
 
-## 🕵️ aslamrosul — Security-Oriented Backend Engineer
-
-```bash
->_ whoami  →  Backend Engineer with a security mindset
->_ cat motto.txt  →  "Code is law, but security is the judge."
-```
-
-**Skills:** Backend Architecture (Laravel, Next.js, Flutter) · Auth & AuthZ (JWT, OAuth, RBAC, SAML) · Web Security Testing (Burp Suite, OWASP Top 10) · Database Hardening (PostgreSQL, MySQL, Elasticsearch) · Infrastructure Security (Docker, Linux, Firewalls)
-
----
-
-### 🛠️ Stack & Tools
-
-**Backend & Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-</p>
-
-**Databases & Infra**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a&color=00ff00" />
-</p>
-
-**Security Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-</p>
 
 
 
