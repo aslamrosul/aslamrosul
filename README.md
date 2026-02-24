@@ -1,91 +1,143 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Aslam%20Rosul&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast&descAlignY=75&descAlign=62" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:00aa00,100:00ff00&height=200&section=header&text=%3E_%20aslamrosul&fontSize=50&fontColor=00ff00&animation=twinkling&desc=root%40hackbox%20~%20%23&descSize=20&descAlignY=65" />
+</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Security-Oriented+Backend+Engineer;REST+API+Developer;Auth+Explorer;Build.+Break.+Secure." />
-  
-  <br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Security-Oriented+Backend+Engineer;REST+API+Developer;Auth+Explorer;Build.+Break.+Secure.;Hack+The+Planet!" />
+</p>
 
-  <a href="https://linkedin.com/in/aslamrosul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://aslamra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:email_asli_anda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <samp>
+    <strong>>_ Initializing system... <br/> >_ Access granted. Welcome to my lair.</strong>
+  </samp>
+</p>
 
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=aslamrosul&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
-</div>
-
-<br>
-
-## 🛡️ About Me
-> **_"Build systems. Break systems. Secure systems."_**
-
-Halo! Saya adalah seorang **Backend Engineer** yang berfokus pada arsitektur dan keamanan sistem. Saya terobsesi dengan bagaimana sebuah sistem dibangun di balik layar, menemukan celah bagaimana ia bisa diretas, dan merancang cara paling efektif untuk memperkuatnya.
-
-* 🔭 **Sedang Fokus:** Hardening System Architecture, Advanced Authentication, & DevSecOps.
-* ⚡ **Keahlian Utama:** REST API Design, Web Security Testing, & Database Optimization.
-* 🌱 **Misi Saat Ini:** Menjadi jembatan yang solid antara Development dan Security untuk menciptakan ekosistem digital yang kebal dari ancaman.
+<p align="center">
+  <a href="https://linkedin.com/in/aslamrosul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00aa00" /></a>
+  <a href="https://aslamra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=vercel&logoColor=white&color=00aa00" /></a>
+  <a href="mailto:emailmu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00aa00" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PGP-0xDEADBEEF-00aa00?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🕵️ About Me
+> **"Build systems. Break systems. Secure systems."**
+```bash
+$ whoami
+aslamrosul - Security-Oriented Backend Engineer
 
-Saya menggunakan berbagai alat untuk membangun dan mengamankan aplikasi. Berikut adalah *stack* favorit saya:
+$ cat skills.txt
+- Backend Development (Laravel, Next.js, Flutter)
+- Authentication & Authorization (JWT, OAuth, RBAC)
+- Web Security Testing (Burp Suite, OWASP Top 10)
+- Database Hardening (PostgreSQL, MySQL, Elasticsearch)
+- Infrastructure (Docker, Linux Hardening)
+
+$ echo $MOTTO
+"Code is law, but security is the judge."
+```
+
+---
+
+## 🛠 Tech Stack & Tools
 
 ### 🌐 Backend & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white&color=00aa00" />
 </p>
 
 ### 🗄️ Databases & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&color=00aa00" />
 </p>
 
 ### 🔍 Security Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/Metasploit-2C5F2D?style=flat-square&logo=metasploit&logoColor=white&color=00aa00" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&color=00aa00" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects
-*(Ubah bagian ini dengan 2-3 proyek terbaik Anda agar rekruter bisa langsung melihat kemampuan Anda)*
+## 📊 GitHub Metrics (Hacker Edition)
 
-| Nama Proyek | Deskripsi Singkat | Teknologi | Link |
-| :--- | :--- | :--- | :--- |
-| **[Secure Auth API](#)** | API Autentikasi dengan implementasi JWT, Rate Limiting, & 2FA. | Laravel, PostgreSQL | [Repo](#) |
-| **[App Vulnerability Scanner](#)** | Tools internal untuk memindai kerentanan dasar pada web app. | Python, OWASP | [Repo](#) |
+<p align="center">
+  <table border="0" align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-one.vercel.app/api?username=aslamrosul&show_icons=true&theme=merko&rank_icon=github&border_radius=10&cache_bust=true" height="165" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamrosul&theme=merko&border_radius=10" height="165" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=aslamrosul&layout=compact&theme=merko&border_radius=10&cache_bust=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aslamrosul&theme=matrix&no-frame=true&no-bg=false&row=2&column=4" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Live Terminal
+```bash
+>_ aslamrosul@github:~$ ./hack.sh --status
+[✔] System: Online
+[✔] Firewall: Active
+[✔] Backend: 5+ projects deployed
+[✔] Security: 50+ vulnerabilities reported (ethically)
+[✔] Status: Always learning, always breaking.
 
-<div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=aslamrosul&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_bust=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamrosul&theme=tokyonight&border_radius=10" height="165" alt="GitHub Streak" />
-</div>
+>_ aslamrosul@github:~$ cat current_mission.txt
+Hardening API authentication & exploring zero-trust architectures.
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=aslamrosul&layout=compact&theme=tokyonight&border_radius=10&cache_bust=true" width="400" alt="Top Languages" />
-</div>
+>_ aslamrosul@github:~$ 
+```
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aslamrosul/aslamrosul/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aslamrosul/aslamrosul/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-</div>
+---
+
+## 🔐 PGP Public Key
+```text
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/aslamrosul
+
+xsFNBGX8hFgBEADgI9yJXJ9y7kGgHt5f0F5s5Wz8T7lKfL1R6RgI1C+JkKX8L7k
+...
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:00aa00,100:003300&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <samp><strong># ls -la /etc/bye</strong><br/>Goodbye, and stay secure.</samp>
+</p>
