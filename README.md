@@ -53,12 +53,17 @@ someone who understands how systems are built, attacked, and secured.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslamrosul&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=aslamrosul&theme=tokyonight" height="165"/>
+  <!-- Overall contribution activity -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=aslamrosul&theme=react-dark&hide_border=true" width="680" />
+
+  <!-- Contribution summary chart -->
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamrosul&theme=react-dark&hide_border=true&background=00000000" width="380"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamrosul&layout=compact&theme=tokyonight" />
+  <!-- Top languages used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamrosul&layout=compact&theme=react-dark" />
 </p>
 
 ---
