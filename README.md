@@ -87,11 +87,6 @@ aslamrosul - Security-Oriented Backend Engineer
 
 
 
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:00aa00,100:003300&height=120&section=footer" />
 </p>
