@@ -58,7 +58,7 @@ aslamrosul - Security-Oriented Backend Engineer
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0a0a0a&color=00ff00" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&labelColor=0a0a0a&color=00ff00" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0a0a0a&color=00ff00" />
+  <!-- <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0a0a0a&color=00ff00" /> -->
 </p>
 
 ### 🗄️ DATABASES & INFRA
@@ -69,7 +69,7 @@ aslamrosul - Security-Oriented Backend Engineer
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=0a0a0a&color=00ff00" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a&color=00ff00" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0a0a0a&color=00ff00" />
+  <!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0a0a0a&color=00ff00" /> -->
 </p>
 
 ### 🔐 SECURITY TOOLS
@@ -78,30 +78,14 @@ aslamrosul - Security-Oriented Backend Engineer
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=0a0a0a&color=00ff00" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0a0a0a&color=00ff00" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Metasploit-2C5F2D?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0a&color=00ff00" />
+  <!-- <img src="https://img.shields.io/badge/Metasploit-2C5F2D?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0a0a0a&color=00ff00" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0a&color=00ff00" /> -->
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0a0a0a&color=00ff00" />
 </p>
 
 ---
 
-## 💻 LIVE TERMINAL
 
-```bash
->_ aslamrosul@github:~$ ./hack.sh --status --verbose
-[+] System check passed.
-[+] Uptime: 3 years in cyber world.
-[+] Firewall: ACTIVE (iptables rules: 1337)
-[+] Backend projects: 12 deployed in production
-[+] Security advisories: 87 responsibly disclosed
-[+] Current mission: Hardening OAuth2 flows & API gateways.
-
->_ aslamrosul@github:~$ cat /root/quote.txt
-"The only secure system is the one that is powered off.
- But we don't do that here. We build, break, and secure."
-
->_ aslamrosul@github:~$ █
-```
 
 ---
 
@@ -134,62 +118,7 @@ aslamrosul - Security-Oriented Backend Engineer
 
 ---
 
-## 🐍 SNAKE GAME (CONTRIBUTION GRID)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aslamrosul/aslamrosul/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🎧 NOW PLAYING (SPOTIFY)
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=0a0a0a&interchange=false" />
-  </a>
-</p>
-<p align="center"><i>Hacking vibes only 🎧</i></p>
-
----
-
-## 🧠 LATEST HACKTIVITIES
-
-<!-- BLOG-POST-LIST:START -->
-- 🔓 [Breaking JWT: Common Pitfalls in Authentication](#)
-- 🛡️ [API Security Checklist: 10 Must-Have Headers](#)
-- 🏗️ [Zero Trust Architecture: A Backend Perspective](#)
-- 🕵️ [OWASP Top 10 for API: What Devs Miss](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📫 CONTACT & ENCRYPTED CHANNELS
-
-```
-PGP Fingerprint : 0xDEADBEEF 1337 CAFE 2025 0815 0812 1998 1111 2222 3333
-Matrix          : @aslamrosul:matrix.org
-Signal          : +62 123 4567 890
-```
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0a0a0a&color=00ff00" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white&labelColor=0a0a0a&color=00ff00" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white&labelColor=0a0a0a&color=00ff00" /></a>
-</p>
-
----
-
-## 🌐 SUPPORT MY WORK
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/aslamrosul">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0a0a0a&color=00ff00" />
-  </a>
-  <a href="https://paypal.me/aslamrosul">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0a0a0a&color=00ff00" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
