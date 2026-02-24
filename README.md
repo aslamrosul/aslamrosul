@@ -87,10 +87,4 @@ aslamrosul - Security-Oriented Backend Engineer
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:00aa00,100:003300&height=120&section=footer" />
-</p>
 
-<p align="center">
-  <samp><strong># logout</strong><br/>Stay paranoid. Stay secure.</samp>
-</p>
