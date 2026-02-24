@@ -21,16 +21,6 @@
   <img src="https://komarev.com/ghpvc/?username=aslamrosul&style=for-the-badge&color=00ff00&label=VISITOR+COUNT" />
 </p>
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0a0a0a&color=ffffff" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0a0a&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0a0a0a&color=FF2D20" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0a0a&color=009688" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0a0a0a&color=02569B" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0a0a0a&color=777BB4" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=0a0a0a&color=FF6633" />
-</p>
----
 
 ## 🕵️ ABOUT ME
 
@@ -53,6 +43,16 @@ aslamrosul - Security-Oriented Backend Engineer
 -rw-r--r-- 1 root root 2049 Feb 24 10:38 zero_trust.txt
 -rwxr-xr-x 1 root root  512 Feb 24 10:39 pwn_the_box.sh
 ```
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0a0a0a&color=ffffff" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0a0a&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0a0a0a&color=FF2D20" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0a0a&color=009688" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0a0a0a&color=02569B" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0a0a0a&color=777BB4" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=0a0a0a&color=FF6633" />
+</p>
+
 
 
 
