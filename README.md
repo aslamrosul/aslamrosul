@@ -76,6 +76,27 @@ someone who understands how systems are built, attacked, and secured.
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aslamrosul&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=aslamrosul&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamrosul&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/aslamrosul/aslamrosul/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+> "Build systems. Break systems. Secure systems."
+
 > "Build systems. Break systems. Secure systems."
 
 ![snake gif](https://github.com/aslamrosul/aslamrosul/blob/output/github-contribution-grid-snake.svg)
