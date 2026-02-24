@@ -69,22 +69,7 @@ Saya adalah seorang **Backend Engineer** yang berfokus pada keamanan. Saya terob
 <p align="center">
   <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=aslamrosul&layout=compact&theme=tokyonight&border_radius=10&cache_bust=true" width="400" />
 </p>
-<p align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aslamrosul&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="165" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamrosul&theme=tokyonight&border_radius=10" height="165" />
-      </td>
-    </tr>
-  </table>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamrosul&layout=compact&theme=tokyonight&border_radius=10" width="400" />
-</p>
 
 ---
 
