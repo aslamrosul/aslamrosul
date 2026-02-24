@@ -1,80 +1,70 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Security-Oriented+Backend+Engineer;REST+API+Developer;Authentication+%26+Authorization+Explorer;Build+Break+Secure" />
+</p>
 # Hi, I'm Aslam Rosul 👋
 
-I am an Information Technology student with strong interest in Backend Development and Cyber Security.
+Security-oriented Backend Engineer in progress.
 
-I enjoy building REST APIs, understanding authentication mechanisms, and analyzing how systems can be secured.
-
-My experience includes working with Laravel, Next.js, database systems, and exploring web security testing using tools such as Burp Suite and ffuf.
-
-I aim to grow as a security-oriented backend engineer who understands both system development and system protection.
+I build REST APIs, design authentication systems, and explore how systems can be secured from both development and attack perspectives.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 What I Do
 
-- 🎓 Information Technology Student
-- 🔐 Interested in Backend Development & Cyber Security
-- 🛠 Focused on API development, authentication, and system architecture
-- 🧠 Experienced exploring penetration testing tools & log monitoring
-- 📊 Have worked on data processing and simple ML classification projects
+- 🔐 Backend Development (API-first architecture)
+- 🛡 Authentication & Authorization (JWT, role-based access)
+- 🧠 Security Exploration (Web testing & log monitoring)
+- 📱 API Integration for Mobile Apps (Flutter)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Tech Stack
 
 ### Backend
 - Laravel
-- REST API Development
-- JWT Authentication (learning deep implementation)
+- REST API Design
+- JWT Authentication
 
 ### Frontend
 - Next.js
-- React.js
-- Bootstrap
+- React
 
 ### Database
 - MySQL
-- MongoDB
 - PostgreSQL (Learning)
+- MongoDB
 
-### Security Exposure
+### Security & Tools
 - Burp Suite
-- Basic Bug Hunting
+- ffuf
+- Elastic Stack
 - Parrot OS
-- Elastic Stack (log monitoring)
 
-### Data & ML
-- Google Colab
-- Image Classification (Mobile App Project)
-- Pentaho
-- Looker Studio
-  
-### Mobile Experience
+### Data & Mobile
 - Flutter (API Integration)
-- Built ML-based Image Classification App
-- Consumed REST API from Backend
+- ML Image Classification (Mobile App)
+- Google Colab
+- Pentaho
 
 ---
 
 ## 🔥 Current Focus
 
-- Strengthening Backend Engineering skills
-- Deepening understanding of Authentication & Authorization
-- Learning System Hardening & Secure API Design
-- Exploring Web Security Testing
+- Secure API Design & Best Practices
+- Deepening Authentication & Authorization
+- Backend Architecture & System Hardening
+- Web Security Testing
 
 ---
 
-## 📌 Career Direction
+## 🎯 Career Direction
 
-My goal is to become a **Security-Oriented Backend Engineer**,  
-with strong understanding of how systems are built and how they are secured.
-
-I believe strong security starts with understanding backend architecture.
+My goal is to become a **Security-Oriented Backend Engineer** —  
+someone who understands how systems are built, attacked, and secured.
 
 ---
 
-## 🌐 Connect & Explore
+## 🌐 Connect
 
 🔧 Technical Proof  
 [GitHub Projects](https://github.com/aslamrosul)
@@ -83,9 +73,14 @@ I believe strong security starts with understanding backend architecture.
 [LinkedIn](https://linkedin.com/in/aslamrosul)
 
 🌍 Visual Portfolio  
-[Portfolio Website](https://aslamra.vercel.app/)
-
+[Portfolio Website](https://aslamra.vercel.app)
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamrosul&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aslamrosul&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamrosul&theme=tokyonight" height="165"/>
+</p>
 > "Build systems. Break systems. Secure systems."
