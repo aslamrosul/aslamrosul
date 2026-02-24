@@ -1,8 +1,12 @@
 # Hi, I'm Aslam Rosul 👋
 
-Backend-Oriented Developer with Strong Interest in Cyber Security & System Engineering.
+I am an Information Technology student with strong interest in Backend Development and Cyber Security.
 
-I enjoy understanding how systems work — not only building them, but also analyzing how they can break and how to secure them.
+I enjoy building REST APIs, understanding authentication mechanisms, and analyzing how systems can be secured.
+
+My experience includes working with Laravel, Next.js, database systems, and exploring web security testing using tools such as Burp Suite and ffuf.
+
+I aim to grow as a security-oriented backend engineer who understands both system development and system protection.
 
 ---
 
@@ -22,18 +26,19 @@ I enjoy understanding how systems work — not only building them, but also anal
 - Laravel
 - REST API Development
 - JWT Authentication (learning deep implementation)
-- MySQL, PostgreSQL, MongoDB
 
 ### Frontend
 - Next.js
-- Tailwind CSS
+- React.js
 - Bootstrap
+
+### Database
+- MySQL
+- MongoDB
+- PostgreSQL (Learning)
 
 ### Security Exposure
 - Burp Suite
-- ffuf
-- Medusa
-- XSS Testing
 - Basic Bug Hunting
 - Parrot OS
 - Elastic Stack (log monitoring)
@@ -43,6 +48,11 @@ I enjoy understanding how systems work — not only building them, but also anal
 - Image Classification (Mobile App Project)
 - Pentaho
 - Looker Studio
+  
+### Mobile Experience
+- Flutter (API Integration)
+- Built ML-based Image Classification App
+- Consumed REST API from Backend
 
 ---
 
@@ -64,10 +74,17 @@ I believe strong security starts with understanding backend architecture.
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Connect & Explore
 
-- GitHub: https://github.com/aslamrosul
-- Email: (isi email kamu)
+🔧 Technical Proof  
+[GitHub Projects](https://github.com/aslamrosul)
+
+💼 Professional Identity  
+[LinkedIn](https://linkedin.com/in/aslamrosul)
+
+🌍 Visual Portfolio  
+[Portfolio Website](https://aslamra.vercel.app/)
+
 
 ---
 
